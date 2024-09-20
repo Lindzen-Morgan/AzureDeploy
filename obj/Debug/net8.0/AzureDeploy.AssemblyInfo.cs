@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureDeploy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3ddd90bf49096be6077894fc729868821527d44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e87add25fe65e9b2da1cd9ee279417507c1b347")]
 [assembly: System.Reflection.AssemblyProductAttribute("AzureDeploy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AzureDeploy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
