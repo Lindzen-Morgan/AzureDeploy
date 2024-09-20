@@ -22,24 +22,20 @@ jobs:
           dotnet-version: '8.x'
 
       - name: Build with dotnet
-        run: dotnet build --configuration Release
+        run: dotnet build --configuration Release AzureDeploy.csproj  # Ange sökväg till .csproj om den ligger i roten
 
       - name: dotnet publish
-        run: dotnet publish -c Release -o ${{env.DOTNET_ROOT}}/myapp
+        run: dotnet publish AzureDeploy.csproj -c Release -o ./myapp  # Publicera till ./myapp
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
         with:
           name: .net-app
-          path: ${{env.DOTNET_ROOT}}/myapp
+          path: ./myapp
 
   deploy:
     runs-on: windows-latest
     needs: build
-    environment:
-      name: 'Production'
-      url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
-    
     steps:
       - name: Download artifact from build job
         uses: actions/download-artifact@v4
@@ -50,7 +46,7 @@ jobs:
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v3
         with:
-          app-name: 'AzureDeploy'
+          app-name: 'AzureDeploy'  
           slot-name: 'Production'
-          package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_07534CB9813F4B029A5FD0D7D41686DE }}
+          package: './myapp'  
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_07534CB9813F4B029A5FD0D7D41686DE }}  # Använd ditt publish profile secret
