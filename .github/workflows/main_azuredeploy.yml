@@ -22,10 +22,10 @@ jobs:
           dotnet-version: '8.x'
 
       - name: Build with dotnet
-        run: dotnet build --configuration Release AzureDeploy.csproj  # Ange sökväg till .csproj om den ligger i roten
+        run: dotnet build --configuration Release AzureDeploy.csproj  
 
       - name: dotnet publish
-        run: dotnet publish AzureDeploy.csproj -c Release -o ./myapp  # Publicera till ./myapp
+        run: dotnet publish AzureDeploy.csproj -c Release -o ./myapp  
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
@@ -49,4 +49,4 @@ jobs:
           app-name: 'AzureDeploy'  
           slot-name: 'Production'
           package: './myapp'  
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_07534CB9813F4B029A5FD0D7D41686DE }}  # Använd ditt publish profile secret
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_07534CB9813F4B029A5FD0D7D41686DE }}  
