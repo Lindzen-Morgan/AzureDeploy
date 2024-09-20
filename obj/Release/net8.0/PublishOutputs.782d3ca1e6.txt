@@ -1,0 +1,12 @@
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\myapp\AzureDeploy.exe
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\myapp\myapp\web.config
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\myapp\appsettings.Development.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\myapp\appsettings.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\myapp\myapp\appsettings.Development.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\myapp\myapp\appsettings.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\myapp\myapp\AzureDeploy.deps.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\myapp\myapp\AzureDeploy.runtimeconfig.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\myapp\AzureDeploy.dll
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\myapp\AzureDeploy.deps.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\myapp\AzureDeploy.runtimeconfig.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\myapp\AzureDeploy.pdb

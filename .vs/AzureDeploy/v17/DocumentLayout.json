@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\morga\\OneDrive\\Skrivbord\\AzureDEPLOY\\AzureDeploy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5FA02DF6-0A59-4CA8-878F-87F813110CF8}|AzureDeploy.csproj|c:\\users\\morga\\onedrive\\skrivbord\\azuredeploy\\azuredeploy\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FA02DF6-0A59-4CA8-878F-87F813110CF8}|AzureDeploy.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\morga\\OneDrive\\Skrivbord\\AzureDEPLOY\\AzureDeploy\\.github\\workflows\\main_azuredeploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\main_azuredeploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA02DF6-0A59-4CA8-878F-87F813110CF8}|AzureDeploy.csproj|c:\\users\\morga\\onedrive\\skrivbord\\azuredeploy\\azuredeploy\\azuredeploy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5FA02DF6-0A59-4CA8-878F-87F813110CF8}|AzureDeploy.csproj|solutionrelative:azuredeploy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FA02DF6-0A59-4CA8-878F-87F813110CF8}|AzureDeploy.csproj|c:\\users\\morga\\onedrive\\skrivbord\\azuredeploy\\azuredeploy\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5FA02DF6-0A59-4CA8-878F-87F813110CF8}|AzureDeploy.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA02DF6-0A59-4CA8-878F-87F813110CF8}|AzureDeploy.csproj|c:\\users\\morga\\onedrive\\skrivbord\\azuredeploy\\azuredeploy\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA02DF6-0A59-4CA8-878F-87F813110CF8}|AzureDeploy.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -21,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,7 +37,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "main_azuredeploy.yml",
+              "DocumentMoniker": "C:\\Users\\morga\\OneDrive\\Skrivbord\\AzureDEPLOY\\AzureDeploy\\.github\\workflows\\main_azuredeploy.yml",
+              "RelativeDocumentMoniker": ".github\\workflows\\main_azuredeploy.yml",
+              "ToolTip": "C:\\Users\\morga\\OneDrive\\Skrivbord\\AzureDEPLOY\\AzureDeploy\\.github\\workflows\\main_azuredeploy.yml",
+              "RelativeToolTip": ".github\\workflows\\main_azuredeploy.yml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-20T14:12:21.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AzureDeploy.csproj",
+              "DocumentMoniker": "C:\\Users\\morga\\OneDrive\\Skrivbord\\AzureDEPLOY\\AzureDeploy\\AzureDeploy.csproj",
+              "RelativeDocumentMoniker": "AzureDeploy.csproj",
+              "ToolTip": "C:\\Users\\morga\\OneDrive\\Skrivbord\\AzureDEPLOY\\AzureDeploy\\AzureDeploy.csproj",
+              "RelativeToolTip": "AzureDeploy.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T13:41:16.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -41,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\morga\\OneDrive\\Skrivbord\\AzureDEPLOY\\AzureDeploy\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
@@ -53,16 +87,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\morga\\OneDrive\\Skrivbord\\AzureDEPLOY\\AzureDeploy\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\morga\\OneDrive\\Skrivbord\\AzureDEPLOY\\AzureDeploy\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "Pages\\Index.cshtml.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T13:11:19.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T13:11:19.048Z"
             }
           ]
         }
