@@ -1,0 +1,17 @@
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\obj\Release\net8.0\PubTmp\Out\AzureDeploy.exe
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\obj\Release\net8.0\PubTmp\Out\myapp\myapp\web.config
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\obj\Release\net8.0\PubTmp\Out\myapp\web.config
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\obj\Release\net8.0\PubTmp\Out\myapp\appsettings.Development.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\obj\Release\net8.0\PubTmp\Out\myapp\appsettings.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\obj\Release\net8.0\PubTmp\Out\myapp\AzureDeploy.deps.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\obj\Release\net8.0\PubTmp\Out\myapp\AzureDeploy.runtimeconfig.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\obj\Release\net8.0\PubTmp\Out\myapp\myapp\appsettings.Development.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\obj\Release\net8.0\PubTmp\Out\myapp\myapp\appsettings.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\obj\Release\net8.0\PubTmp\Out\myapp\myapp\AzureDeploy.deps.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\obj\Release\net8.0\PubTmp\Out\myapp\myapp\AzureDeploy.runtimeconfig.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\obj\Release\net8.0\PubTmp\Out\AzureDeploy.dll
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\obj\Release\net8.0\PubTmp\Out\AzureDeploy.deps.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\obj\Release\net8.0\PubTmp\Out\AzureDeploy.runtimeconfig.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\obj\Release\net8.0\PubTmp\Out\AzureDeploy.pdb

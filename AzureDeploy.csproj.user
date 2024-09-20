@@ -2,6 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\.github\workflows\main_azuredeploy.yml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\Properties\PublishProfiles\AzureDeploy2024 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

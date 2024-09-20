@@ -29,3 +29,13 @@ C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\obj\Debug\net8.0\refin
 C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\obj\Debug\net8.0\AzureDeploy.pdb
 C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\obj\Debug\net8.0\AzureDeploy.genruntimeconfig.cache
 C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\obj\Debug\net8.0\ref\AzureDeploy.dll
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\bin\Debug\net8.0\myapp\myapp\web.config
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\bin\Debug\net8.0\myapp\web.config
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\bin\Debug\net8.0\myapp\appsettings.Development.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\bin\Debug\net8.0\myapp\appsettings.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\bin\Debug\net8.0\myapp\AzureDeploy.deps.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\bin\Debug\net8.0\myapp\AzureDeploy.runtimeconfig.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\bin\Debug\net8.0\myapp\myapp\appsettings.Development.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\bin\Debug\net8.0\myapp\myapp\appsettings.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\bin\Debug\net8.0\myapp\myapp\AzureDeploy.deps.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\bin\Debug\net8.0\myapp\myapp\AzureDeploy.runtimeconfig.json

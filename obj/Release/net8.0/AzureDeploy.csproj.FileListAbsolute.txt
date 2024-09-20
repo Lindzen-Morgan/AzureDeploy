@@ -34,3 +34,8 @@ C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\bin\Release\net8.0\mya
 C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\bin\Release\net8.0\myapp\appsettings.json
 C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\bin\Release\net8.0\myapp\AzureDeploy.deps.json
 C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\bin\Release\net8.0\myapp\AzureDeploy.runtimeconfig.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\bin\Release\net8.0\myapp\myapp\web.config
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\bin\Release\net8.0\myapp\myapp\appsettings.Development.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\bin\Release\net8.0\myapp\myapp\appsettings.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\bin\Release\net8.0\myapp\myapp\AzureDeploy.deps.json
+C:\Users\morga\OneDrive\Skrivbord\AzureDEPLOY\AzureDeploy\bin\Release\net8.0\myapp\myapp\AzureDeploy.runtimeconfig.json

@@ -27,8 +27,8 @@ jobs:
       - name: dotnet publish
         run: dotnet publish AzureDeploy.csproj -c Release -o ./myapp
 
-      - name: List files in publish directory  # Nytt steg för att lista filer
-        run: ls ./myapp  # Använd 'dir' om du kör på Windows
+      - name: List files in publish directory  
+        run: dir ./myapp  
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
