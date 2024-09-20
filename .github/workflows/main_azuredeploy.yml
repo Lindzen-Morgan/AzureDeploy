@@ -22,10 +22,13 @@ jobs:
           dotnet-version: '8.x'
 
       - name: Build with dotnet
-        run: dotnet build --configuration Release AzureDeploy.csproj  
+        run: dotnet build --configuration Release AzureDeploy.csproj
 
       - name: dotnet publish
-        run: dotnet publish AzureDeploy.csproj -c Release -o ./myapp  
+        run: dotnet publish AzureDeploy.csproj -c Release -o ./myapp
+
+      - name: List files in publish directory  # Nytt steg för att lista filer
+        run: ls ./myapp  # Använd 'dir' om du kör på Windows
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v4
